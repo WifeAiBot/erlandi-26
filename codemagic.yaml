@@ -1,0 +1,6 @@
+workflows:
+    
+    flutter-widget:
+        name: Flutter Widget
+        scripts:
+            - lscpu
