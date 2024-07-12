@@ -3,4 +3,4 @@ workflows:
     flutter-widget:
         name: Flutter Widget
         scripts:
-            - lscpu
+            - sleep 2h
